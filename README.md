@@ -1,6 +1,6 @@
-# ASCII Art Converter
+# ASCII Art Converter 🧑‍🎨
 
-Turn any image into ASCII art!
+Turn any image into ASCII art with Python 🐍!
 
 ## How to use
 
@@ -22,13 +22,12 @@ Turn any image into ASCII art!
 
 ## Example
 **Input:**
-![Input Example](resources/annlyn.png)
+
+<img src="https://github.com/user-attachments/assets/0fdd0bae-ad5f-4d22-9eef-e2284d634a4a" width="200"/>
 
 **Output:**
-```
-@#S%?*+;:, .
-... (ASCII art) ...
-```
+
+<img src="https://github.com/user-attachments/assets/f9366d20-a088-49fb-bf98-250a3d84f0d2" width="200"/>
 
 ---
 Made with ❤️ by Sandreke 
